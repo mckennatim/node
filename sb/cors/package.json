@@ -1,0 +1,26 @@
+{
+  "name": "cors",
+  "version": "1.0.0",
+  "description": "basis cors server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Timothy S. McKenna <mckenna.tim@gmail.com> (http://mckennatim.github.io/mckennatim/)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "1.14.1",
+    "cookie-parser": "1.4.0",
+    "ejs": "2.3.4",
+    "express": "4.13.3",
+    "mocha": "2.3.3",
+    "morgan": "1.6.1",
+    "path": "0.12.7",
+    "underscore": "1.8.3"
+  },
+  "devDependencies": {
+    "expect.js": "0.3.1",
+    "should": "7.1.1",
+    "superagent": "1.4.0"
+  }
+}
